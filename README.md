@@ -23,7 +23,7 @@ These labs demonstrate practical skills in identifying, exploiting, and mitigati
 - Linux command line (LFS 101 certified)
 
 ## Purpose
-Building hands-on foundation for SOC Analyst L1 and IT Support Technician roles while preparing for IBM Technical Support Professional Certificate.
+Building hands-on foundation for cybersecurity roles.
 
 **Updated**: April 2026  
 **John** — 300 Level Cybersecurity Student
